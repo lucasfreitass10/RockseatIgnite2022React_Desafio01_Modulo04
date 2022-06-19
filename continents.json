@@ -1,0 +1,279 @@
+{"continents": 
+[
+    {
+        "id": "america-do-norte",
+        "name": "América do Norte",
+        "description": "A América do Norte é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "comment": "O continente dos soberbos",
+        "image": "https://images.unsplash.com/photo-1566953484261-e8a30188ad75?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1240&h=500&q=80",
+        "countries": 4,
+        "languages": 2,
+        "citiesIn100": [
+            {
+                "name": "Cidade 1",
+                "country": "Pais 1",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1612994000819-52bf05f1ae98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 2",
+                "country": "Pais 2",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1556150045-9665e721a108?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 3",
+                "country": "Pais 3",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 4",
+                "country": "Pais 4",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1572436289404-e7cb53272e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 5",
+                "country": "Pais 5",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1560394638-7b2346507d03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            }
+        ]        
+    },
+    {
+        "id": "america-do-sul",
+        "name": "América do Sul",
+        "description": "A América do Sul é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "comment": "O continente que impera a corrupção",
+        "image": "https://images.unsplash.com/photo-1591533985302-42123fa9240b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1240&h=500&q=80",
+        "countries": 22,
+        "languages": 4,
+        "citiesIn100": [
+            {
+                "name": "Cidade 1",
+                "country": "Pais 1",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1612994000819-52bf05f1ae98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 2",
+                "country": "Pais 2",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1556150045-9665e721a108?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 3",
+                "country": "Pais 3",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 4",
+                "country": "Pais 4",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1572436289404-e7cb53272e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 5",
+                "country": "Pais 5",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1560394638-7b2346507d03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 6",
+                "country": "Pais 6",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1590612673391-17b643e5039a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            }
+        ]        
+    },
+    {
+        "id": "asia",
+        "name": "Ásia",
+        "description": "A Ásia é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "comment": "O continente oriental",
+        "image": "https://images.unsplash.com/photo-1617469165786-8007eda3caa7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1240&h=500&q=80",
+        "countries": 25,
+        "languages": 10,
+        "citiesIn100": [
+            {
+                "name": "Cidade 1",
+                "country": "Pais 1",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1612994000819-52bf05f1ae98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 2",
+                "country": "Pais 2",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1556150045-9665e721a108?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 3",
+                "country": "Pais 3",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 4",
+                "country": "Pais 4",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1572436289404-e7cb53272e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 5",
+                "country": "Pais 5",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1560394638-7b2346507d03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 6",
+                "country": "Pais 6",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1590612673391-17b643e5039a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            }
+        ]        
+    },
+    {
+        "id": "africa",
+        "name": "África",
+        "description": "A África é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "comment": "O maior continente",
+        "image": "https://images.unsplash.com/photo-1528277342758-f1d7613953a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1240&h=500&q=80",
+        "countries": 32,
+        "languages": 12,
+        "citiesIn100": [
+            {
+                "name": "Cidade 1",
+                "country": "Pais 1",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1612994000819-52bf05f1ae98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 2",
+                "country": "Pais 2",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1556150045-9665e721a108?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 3",
+                "country": "Pais 3",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 4",
+                "country": "Pais 4",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1572436289404-e7cb53272e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 5",
+                "country": "Pais 5",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1560394638-7b2346507d03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 6",
+                "country": "Pais 6",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1590612673391-17b643e5039a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            }
+        ]        
+    },
+    {
+        "id": "europa",
+        "name": "Europa",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "comment": "O continente mais antigo",
+        "image": "https://images.unsplash.com/photo-1520986840182-5b15f734c85c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1240&h=500&q=80",
+        "countries": 25,
+        "languages": 12,
+        "citiesIn100": [
+            {
+                "name": "Cidade 1",
+                "country": "Pais 1",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1612994000819-52bf05f1ae98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 2",
+                "country": "Pais 2",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1556150045-9665e721a108?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 3",
+                "country": "Pais 3",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 4",
+                "country": "Pais 4",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1572436289404-e7cb53272e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 5",
+                "country": "Pais 5",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1560394638-7b2346507d03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 6",
+                "country": "Pais 6",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1590612673391-17b643e5039a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            }
+        ]        
+    },
+    {
+        "id": "oceania",
+        "name": "Oceania",
+        "description": "A Oceania é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+        "comment": "Bom para morar",
+        "image": "https://images.unsplash.com/photo-1589330273594-fade1ee91647?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1240&h=500&q=80",
+        "countries": 25,
+        "languages": 12,
+        "citiesIn100": [
+            {
+                "name": "Cidade 1",
+                "country": "Pais 1",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1612994000819-52bf05f1ae98?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 2",
+                "country": "Pais 2",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1556150045-9665e721a108?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 3",
+                "country": "Pais 3",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1596300504839-0e8f35d3562c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 4",
+                "country": "Pais 4",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1572436289404-e7cb53272e7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 5",
+                "country": "Pais 5",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1560394638-7b2346507d03?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            },
+            {
+                "name": "Cidade 6",
+                "country": "Pais 6",
+                "flag": "/images/BandeiraInglaterra.svg",
+                "image": "https://images.unsplash.com/photo-1590612673391-17b643e5039a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=173&q=80"
+            }
+        ]        
+    }
+]}
